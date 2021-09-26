@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Minggu 1"
+date:   2021-09-26 19:52:24 +0700
+categories: challenges
+---
+
+***Day*** | ***Challenges*** | ***Link Repo***
+Day 1 | Create portofolio page in Github Page. | https://github.com/arricodyanto/RefactoryChallengeDay1
+Day 2 | Odd and even numbers, grade from score, show numbers between 10 - 50, FizzBuzz, remove duplicate letter in sentences. | https://github.com/arricodyanto/RefactoryChallengeDay2
+Day 3 | Fibbonachi numbers, palindrome, capitalize sentence, random string based on value of argument, function as expression. | https://github.com/arricodyanto/RefactoryChallengeDay3
+Day 4 | Filter numbers from given input to leap years numbers, transform array to object, transform item numbers to (even, odd, numbers multiplies by 5, prime numbers, prime numbers less than 100), play with JSON). | https://github.com/arricodyanto/RefactoryChallengeDay4
+Day 5 | Classes, inheritance, encapsulation, abstractions, polymorphims / Higher-Order Functions, Recursive function, Array / List properties. | https://github.com/arricodyanto/RefactoryChallengeDay5

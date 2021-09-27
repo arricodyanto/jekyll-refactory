@@ -30,7 +30,7 @@ twitter_username: a_dyanto
 github_username:  arricodyanto
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 

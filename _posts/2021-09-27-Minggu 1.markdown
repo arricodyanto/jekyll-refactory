@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Daily Activity - BE"
+title:  "Daily Activity"
 date:   2021-09-26 19:52:24 +0700
 categories: challenges
 ---

@@ -1,13 +1,33 @@
 ---
 layout: post
-title:  "Minggu 1"
+title:  "Daily Activity - BE"
 date:   2021-09-26 19:52:24 +0700
 categories: challenges
 ---
 
-***Day*** | ***Challenges*** | ***Link Repo***
-Day 1 | Create portofolio page in Github Page. | https://github.com/arricodyanto/RefactoryChallengeDay1
-Day 2 | Odd and even numbers, grade from score, show numbers between 10 - 50, FizzBuzz, remove duplicate letter in sentences. | https://github.com/arricodyanto/RefactoryChallengeDay2
-Day 3 | Fibbonachi numbers, palindrome, capitalize sentence, random string based on value of argument, function as expression. | https://github.com/arricodyanto/RefactoryChallengeDay3
-Day 4 | Filter numbers from given input to leap years numbers, transform array to object, transform item numbers to (even, odd, numbers multiplies by 5, prime numbers, prime numbers less than 100), play with JSON). | https://github.com/arricodyanto/RefactoryChallengeDay4
-Day 5 | Classes, inheritance, encapsulation, abstractions, polymorphims / Higher-Order Functions, Recursive function, Array / List properties. | https://github.com/arricodyanto/RefactoryChallengeDay5
+| **DATE** | **ACTIVITY** | **BLOCKER** | **SOLVED** | **LINK** |
+| --- | --- | --- | --- | --- |
+| 30-08-2021 | First Gathering dan briefing pembagian role selama magang | Mendapatkan sebuah framework yang sama sekali belum pernah dicoba | Mencari tahu, mulai belajar javascript dari awal, kemudian lanjut ke runtime Node.js dan selanjutnya framework Express |
+ |
+| 31-08-2021 | Mengulang pembelajaran seputar Github, mulai dari membuat repository, push, clone, dan pull CV pribadi ke Github | Terdapat konfigurasi baru dari Github yaitu ssh yang sebelumnya belum ada | Membuka dokumentasi dari Github cara setting ssh pada akun github | [Challenge Day 1](https://github.com/arricodyanto/RefactoryChallengeDay1) |
+| 01-09-2021 | Mengerjakan challenge hari ke 2, dan belajar dasar-dasar Javascript | Masih belum paham syntax javascript dan cara penulisan codenya | E-learning mencari video pembelajaran Javascript dari Youtube | [Challenge Day 2](https://github.com/arricodyanto/RefactoryChallengeDay2) |
+| 02-09-2021 | Mengerjakan challenge hari ke 3, mencoba WPM dan mendapatkan skor rata2 48-51, lanjut belajar dasar-dasar (control flow) Javascript | - | - | [Challenge Day 3](https://github.com/arricodyanto/RefactoryChallengeDay3) |
+| 03-09-2021 | Mengerjakan challenge hari ke 4, WPM naik di skor 48-52, belajar pengulangan dan pengkondisian di Javascript | - | - | [Challenge Day 4](https://github.com/arricodyanto/RefactoryChallengeDay4) |
+| 04-09-2021 | Mengerjakan challenge hari ke 5, WPM stuck di sekitaran 48-54, belajar Array dan Object di Javascript | - | - | [Challenge Day 5](https://github.com/arricodyanto/RefactoryChallengeDay5) |
+| 06-09-2021 | Instalasi Linux di PC | Format hardisk masih MBR, yang dibutuhkan format GPT | Migrasi semua datanya ke drive eksternal untuk diformat menjadi GPT | - |
+| 07-09-2021 | Instalasi Linux di PC | Data files masih ada di drive eksternal | Setting desktop di Linux dan memindahkan data yang sudah dimigrasi tadi kembali ke PC | - |
+| 08-09-2021 | Lanjut belajar ke Javascript Lanjutan | - | - | - |
+| 09-09-2021 | Lanjut belajar Javascript Lanjutan (Asynchronous JS) | - | - | - |
+| 10-09-2021 | Lanjut belajar Javascript Lanjutan (Async Await &amp; Error Handling) | - | - | - |
+| 13-09-2021 | Belajar latar belakang terciptanya Node JS dan instalasi | - | - | - |
+| 14-09-2021 | Belajar Node Module System dan Core Module | - | - | [Node Module System](https://github.com/arricodyanto/learning-nodejs/tree/main/6-node-module-system)[Node Core Module](https://github.com/arricodyanto/learning-nodejs/tree/main/7-node-core-module) |
+| 15-09-2021 | Instalasi NPM dan membuat web contact sederhana dengan Node JS | - | - | [NPM](https://github.com/arricodyanto/learning-nodejs/tree/main/8-npm)[Contact App pt1](https://github.com/arricodyanto/learning-nodejs/tree/main/10-contact-app)[Contact App pt2](https://github.com/arricodyanto/learning-nodejs/tree/main/11-contact-app) |
+| 16-09-2021 | Lanjut membuat Contact App | - | - | [Contact App pt3](https://github.com/arricodyanto/learning-nodejs/tree/main/12-contact-app) |
+| 17-09-2021 | Node JS Web Server | - | - | [Node JS Web Server](https://github.com/arricodyanto/learning-nodejs/tree/main/13-nodejs-web-server) |
+| 20-09-2021 | Membuat FRS untuk Climbee | - | - | [Doc FRS](https://docs.google.com/document/d/1gi6MPvyW-koxTQiC2jzPbMymaid4WQvE4ge5FPbngoc/edit?usp=sharing) |
+| 21-09-2021 | Membuat Flowchart untuk Climbee | - | - | [Flowchart](https://drive.google.com/file/d/1PHbIq76vcXzC98JvLUpqAUNqS1ouLm_8/view?usp=sharing) |
+| 22-09-2021 | Membuat Classic Diagram untuk Climbee | - | - | [Classic Diagram](https://drive.google.com/file/d/1I8i1AdMTiy2gbJU4PO-k9HX6R-78MRF1/view?usp=sharing) |
+| 23-09-2021 | Membuat ERD untuk Climbee | - | - | [ERD](https://drive.google.com/file/d/1I8i1AdMTiy2gbJU4PO-k9HX6R-78MRF1/view?usp=sharing) |
+| 24-09-2021 | Membuat Rest API sederhana | - | - | [Rest API](https://github.com/arricodyanto/learning-nodejs/tree/main/rest-api) |
+| 28-09-2021 | Express View Engine | - | - | [Express View Engine](https://github.com/arricodyanto/learning-nodejs/tree/main/15-express-view-engine) |
+| 29-09-2021 | EJS | - | - | [Express View Engine](https://github.com/arricodyanto/learning-nodejs/tree/main/15-express-view-engine) |

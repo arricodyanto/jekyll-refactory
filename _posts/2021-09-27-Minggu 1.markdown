@@ -8,7 +8,6 @@ categories: challenges
 | **DATE** | **ACTIVITY** | **BLOCKER** | **SOLVED** | **LINK** |
 | --- | --- | --- | --- | --- |
 | 30-08-2021 | First Gathering dan briefing pembagian role selama magang | Mendapatkan sebuah framework yang sama sekali belum pernah dicoba | Mencari tahu, mulai belajar javascript dari awal, kemudian lanjut ke runtime Node.js dan selanjutnya framework Express |
- |
 | 31-08-2021 | Mengulang pembelajaran seputar Github, mulai dari membuat repository, push, clone, dan pull CV pribadi ke Github | Terdapat konfigurasi baru dari Github yaitu ssh yang sebelumnya belum ada | Membuka dokumentasi dari Github cara setting ssh pada akun github | [Challenge Day 1](https://github.com/arricodyanto/RefactoryChallengeDay1) |
 | 01-09-2021 | Mengerjakan challenge hari ke 2, dan belajar dasar-dasar Javascript | Masih belum paham syntax javascript dan cara penulisan codenya | E-learning mencari video pembelajaran Javascript dari Youtube | [Challenge Day 2](https://github.com/arricodyanto/RefactoryChallengeDay2) |
 | 02-09-2021 | Mengerjakan challenge hari ke 3, mencoba WPM dan mendapatkan skor rata2 48-51, lanjut belajar dasar-dasar (control flow) Javascript | - | - | [Challenge Day 3](https://github.com/arricodyanto/RefactoryChallengeDay3) |

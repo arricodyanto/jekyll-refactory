@@ -22,7 +22,7 @@ title: Daily Activity Backend
 email: arricohandyanto@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello there! I am Arrico Handyanto and you can call me Arrico, third year college student of Informatics Engineering, Sebelas Maret University (UNS).
-  You can find me on my social media below.
+  You can find me on my social media above.
 baseurl: "/jekyll-refactory" # the subpath of your site, e.g. /blog
 url: "https://arricodyanto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: a_dyanto

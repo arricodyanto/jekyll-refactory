@@ -32,3 +32,4 @@ categories: challenges
 | 29-09-2021 | EJS | - | - | [Express View Engine](https://github.com/arricodyanto/learning-nodejs/tree/main/15-express-view-engine) |
 | 30-09-2021 | Express Middleware | - | - | [Express Middleware](https://github.com/arricodyanto/learning-nodejs/tree/main/16-express-middleware) |
 | 04-10-2021 | Express Contact App | - | - | [Bagian 1](https://github.com/arricodyanto/learning-nodejs/tree/main/17-express-contact-app) |
+| 05-10-2021 | Express Contact App | - | - | [Bagian 2](https://github.com/arricodyanto/learning-nodejs/tree/main/18-express-contact-app-2) |

@@ -33,3 +33,4 @@ categories: challenges
 | 30-09-2021 | Express Middleware | - | - | [Express Middleware](https://github.com/arricodyanto/learning-nodejs/tree/main/16-express-middleware) |
 | 04-10-2021 | Express Contact App | - | - | [Bagian 1](https://github.com/arricodyanto/learning-nodejs/tree/main/17-express-contact-app) |
 | 05-10-2021 | Express Contact App | - | - | [Bagian 2](https://github.com/arricodyanto/learning-nodejs/tree/main/18-express-contact-app-2) |
+| 06-10-2021 | Express Contact App (Update dan Delete Contact | - | - | [Bagian 3](https://github.com/arricodyanto/learning-nodejs/tree/main/19-express-contact-app-3) | 

@@ -35,6 +35,7 @@ categories: challenges
 | 05-10-2021 | Express Contact App (Tambah Contact) | - | - | [Bagian 2](https://github.com/arricodyanto/learning-nodejs/tree/main/18-express-contact-app-2) |
 | 06-10-2021 | Express Contact App (Update dan Delete Contact) | - | - | [Bagian 3](https://github.com/arricodyanto/learning-nodejs/tree/main/19-express-contact-app-3) | 
 | 07-10-2021 | Set-up RESTful API di climbee-be | - | - | [Climbee-be](https://github.com/arricodyanto/climbee-be) |
+| 11-10-2021 | Uploading API ke heroku | Sempat terkendala app untuk running secara online | Fix package.json script untuk menjalankan servernya | [Heroku-Climbee](https://climbee.herokuapp.com/) |
 | 12-10-2021 | Learning Json Web Tokens | Masih bingung terkait system dan cara penggunaan JWT | Login System yang ada di climbe sementara menggunakan modul Passport terlebih dahulu | - |
 | 13-10-2021 | Adding Routes Navigasi page dan membuat login page | - | - | [Climbee-be](https://github.com/arricodyanto/climbee-be) |
 | 14-10-2021 | Adding Login dan Register System dengan Pasport Module | [Error]Missing Credentials | - | [Climbee-be](https://github.com/arricodyanto/climbee-be) |
